@@ -2,11 +2,7 @@
   <h2>Blazingly fast TUI for managing AirPods on Linux</h2>
 </div>
 
----
-
 ## Features
-
----
 
 - Connect/disconnect AirPods
 - Set AirPods as default audio device
@@ -19,15 +15,11 @@
 
 ## Prerequisites
 
----
-
 - A Linux-based OS
 - [bluez](http://www.bluez.org/) running
 - [nerdfonts](https://www.nerdfonts.com/) (optional, for icons)
 
 ## Installation
-
----
 
 ### From crates.io
 
@@ -51,8 +43,6 @@ cargo build --release
 
 ## Usage
 
----
-
 ### AirPods Management
 
 - `c`: Connect/Disconnect AirPods.
@@ -73,18 +63,12 @@ cargo build --release
 
 ## Configuration
 
----
-
 Configuration coming soon.
 
 ## Notes
 
----
-
 Uses reverse engineering insights from librepods to make AirPods management possible.
 
 ## License
-
----
 
 GPLv3
